@@ -1,0 +1,24 @@
+'167':
+  enc_R_inv: '143'
+  enc_bits_r:
+  - '0'
+  enc_pow_R:
+  - '160'
+  - '49'
+  enc_r: '28'
+  poly_coeffs:
+  - '0'
+  - '2'
+  - '166'
+'227':
+  enc_R_inv: '71'
+  enc_bits_r:
+  - '0'
+  enc_pow_R:
+  - '16'
+  - '29'
+  enc_r: '18'
+  poly_coeffs:
+  - '0'
+  - '2'
+  - '226'

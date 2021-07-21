@@ -1,0 +1,15 @@
+pk:
+  n: '1231331401'
+sk:
+- index: '1'
+  key_share: '359363567303904644'
+  n_shares: '3'
+  threshold: '2'
+- index: '2'
+  key_share: '114008994730424919'
+  n_shares: '3'
+  threshold: '2'
+- index: '3'
+  key_share: '247677067986511895'
+  n_shares: '3'
+  threshold: '2'

@@ -1,0 +1,11 @@
+pk:
+  n: '40633'
+sk:
+- index: '1'
+  key_share: '278325750'
+  n_shares: '2'
+  threshold: '2'
+- index: '2'
+  key_share: '286238884'
+  n_shares: '2'
+  threshold: '2'
